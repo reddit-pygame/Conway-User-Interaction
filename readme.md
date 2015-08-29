@@ -1,6 +1,6 @@
 # Conway User Interaction
 This is a challenge designed for [/r/pygame](https://www.reddit.com/r/pygame/)  
-[Link to challenge thread. (not live yet)](https://www.reddit.com/r/pygame/)
+[Link to challenge thread.](https://www.reddit.com/r/pygame/comments/3iwdqq/challenge_conway_user_interaction/)
 
 # This challenge:  
 This challenge is much simpler than the previous.  You are provided with a bare bones implementation of "Conway's Game of Life".  The goal here is to implement user interaction with the simulation.  
